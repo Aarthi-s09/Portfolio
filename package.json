@@ -1,0 +1,16 @@
+{
+  "name": "aarthi-s",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "golive":"lt --port 5500",
+   "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "localtunnel":"^2.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
